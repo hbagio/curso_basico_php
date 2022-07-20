@@ -10,8 +10,6 @@ Este projeto consiste em:
 
 3 - CRUD de Fornecedores
 
-4 - CRUD de Usuários
+4 - CRUD de Categorias
 
-5 - CRUD de Categorias
-
-6 - Validação de Login com controle de sessão.
+5 - Validação de Login com controle de sessão.
